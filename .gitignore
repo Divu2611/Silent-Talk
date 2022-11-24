@@ -1,3 +1,10 @@
 .ipynb_checkpoints/
+.idea/
 
 haarcascades/
+
+Dataset/ASL/.ipynb_checkpoints/
+Dataset/ASL/classified data/
+Dataset/ASL/data/
+
+Dataset/ISL/
