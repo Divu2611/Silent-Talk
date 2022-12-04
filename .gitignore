@@ -1,10 +1,24 @@
+__pycache__/
+
 .ipynb_checkpoints/
 .idea/
 
-haarcascades/
-
 Dataset/ASL/.ipynb_checkpoints/
 Dataset/ASL/classified data/
+Dataset/ASL/classified data asze/
+Dataset/ASL/classified data ghu/
+Dataset/ASL/classified data jy/
+Dataset/ASL/classified data ltx/
+Dataset/ASL/classified data mnb/
+Dataset/ASL/classified data vkwf/
 Dataset/ASL/data/
+Dataset/ASL/data asze/
+Dataset/ASL/data ghu/
+Dataset/ASL/data jy/
+Dataset/ASL/data ltx/
+Dataset/ASL/data mnb/
+Dataset/ASL/data vkwf/
 
 Dataset/ISL/
+
+Snapshots/
