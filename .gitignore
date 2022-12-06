@@ -1,7 +1,9 @@
 __pycache__/
 
+
 .ipynb_checkpoints/
 .idea/
+
 
 Dataset/ASL/.ipynb_checkpoints/
 Dataset/ASL/classified data/
@@ -20,5 +22,11 @@ Dataset/ASL/data mnb/
 Dataset/ASL/data vkwf/
 
 Dataset/ISL/
+
+Icons/
+
+
+*.mp4
+
 
 Snapshots/
