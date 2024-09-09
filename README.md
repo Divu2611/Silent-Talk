@@ -1,18 +1,25 @@
 # Silent Talk
 
-### A real time application that convert American Sign Language to text. <br/>
-The model was trained using the VGG-16 network, which then forecasts the desired outcome.  <br/>
-Data was gathered from [Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet). <br/>
-The interactive user interface was then implemented using Tkinter and OpenCV.  <br/>
+### Real time application for translating American Sign Language into English text, delivering seamless communication accessibility.
 
-To increase the accuracy, several models were trained. <br/>
-(All characters may be predicted by the main model, but a different and unique model was also trained for each group, such as "GHU," "JY," "LTX," and "BMN," because these certain groups of characters had similar signs).
+## Project Features
 
-## Installation
-To run the code a basic IDE (like VS Code) is required. <br/>
-Tools and python libraries required to run the project: <br/>
-* Tensorflow 2
-* Tkinter
-* OpenCV <br/>
+- Real time app that converts American sign language to English text.
+- Custom VGG-16 model was created using Tensorflow (an open source Python library for AI and ML).
+- The model was trained on the [Kaggle dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) that had over 90k images (including upper case alphabets, numbers and special signs for 'space' and 'delete').
+- To increase the accuracy, several models were created and trained. (All characters may be predicted by the main model, but a different and unique model was also trained for each group, such as "GHU," "JY," "LTX," and "BMN," because these certain groups of characters had similar signs).
+- The model has the accuracy of around 93%.
+- The user interface of the app was created using Tkinter (Python GUI library) and OpenCV (computer vision library).
+- The app also has the feature to convert text into speech.
 
-### [Project Demo](https://youtu.be/w-teuiwapEo)
+## Technology Used
+
+- Python
+- TensorFlow
+- VGG‑16
+- Tkinter
+- OpenCV
+
+## Project Demo
+
+https://github.com/user-attachments/assets/8d2ab200-aef9-446f-b097-0bc91baf7279
